@@ -4,7 +4,6 @@ Olá! Meu nome é Luiz Pedro Pereira Mendes Saraiva. Sou estudante de **Engenhar
 # Sobre mim
 - 🎓 Graduando Bacharelado em Engenharia de Software - **UFG**
 - 🧠 Focado em: Desenvolver projetos consistentes e bem estruturados, inclusive estou desenvolvendo um projeto para o Grupo Flamboyant
-- 📞 Contato: luizsaraiva@discente.ufg.br
 
 # Tecnologias em Aprendizado
 - Golang(GO)
