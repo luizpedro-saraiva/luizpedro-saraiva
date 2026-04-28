@@ -9,7 +9,9 @@ Olá! Meu nome é Luiz Pedro Pereira Mendes Saraiva. Sou estudante de **Engenhar
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
 </div>
 
 # Projetos em Desenvolvimento
@@ -29,8 +31,3 @@ Projeto Integrador — Sistema JP Mall O Sistema JP Mall é uma plataforma web c
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizpedro-saraiva/luizpedro-saraiva/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizpedro-saraiva/luizpedro-saraiva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luizpedro-saraiva/luizpedro-saraiva/output/pacman-contribution-graph.svg">
-</picture>
