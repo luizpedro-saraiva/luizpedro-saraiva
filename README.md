@@ -18,8 +18,8 @@ Olá! Meu nome é Luiz Pedro Pereira Mendes Saraiva. Sou estudante de **Engenhar
 Projeto Integrador — Sistema JP Mall O Sistema JP Mall é uma plataforma web corporativa B2B, em desenvolvimento para o Grupo Flamboyant. Seu propósito é centralizar informações comerciais, operacionais e de relacionamento com lojistas em apenas um ambiente. Busca preservar a memória institucional da organização e oferecer suporte mais eficiente à tomada de decisões estratégicas.
 
 # Socials
-<div align="center">
-  <a href="www.linkedin.com/in/luiz-pedro-saraiva-505213358" target="_blank">
+<div align="left">
+  <a href="https://www.linkedin.com/in/luiz-pedro-saraiva-505213358" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/LuizPedroSarai1" target="_blank">
@@ -28,13 +28,8 @@ Projeto Integrador — Sistema JP Mall O Sistema JP Mall é uma plataforma web c
   <a href="https://discord.com/users/luizpsaraivaa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="luizsaraiva@discente.ufg.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/qr/M7HEOVUMCKUIM1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
 </div>
+
 
 
 
